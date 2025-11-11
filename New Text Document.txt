@@ -1,0 +1,6 @@
+PORT=5001
+MONGODB_URI=mongodb+srv://uttamramkanuru_db_user:XaCJoUK2wS2f7tPO@cluster0.frwl6rc.mongodb.net/?appName=Cluster0
+
+SESSION_SECRET=your-super-secret-key-change-in-production
+NODE_ENV=development
+
